@@ -12,3 +12,6 @@ proteinas_triagem/links_pubchem.tsv
 relatorios_busca/DDS*
 relatorios_busca/TJL*
 relatorios_busca/RMS*
+
+blast_results/
+

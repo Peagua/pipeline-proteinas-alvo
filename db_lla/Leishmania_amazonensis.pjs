@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "Leishmania_amazonensis",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "Leishmania amazonensis proteome",
+  "number-of-letters": 4655666,
+  "number-of-sequences": 7694,
+  "last-updated": "2026-03-02T17:45:00",
+  "number-of-volumes": 1,
+  "bytes-total": 8345866,
+  "bytes-to-cache": 4725041,
+  "files": [
+    "Leishmania_amazonensis.pdb",
+    "Leishmania_amazonensis.phr",
+    "Leishmania_amazonensis.pin",
+    "Leishmania_amazonensis.pot",
+    "Leishmania_amazonensis.psq",
+    "Leishmania_amazonensis.ptf",
+    "Leishmania_amazonensis.pto"
+  ]
+}
