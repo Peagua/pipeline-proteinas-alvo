@@ -67,6 +67,8 @@ for tsv in arquivos_tsv:
         .reset_index(drop=True)
     )
 
+    print(f"    Melhores hits únicos: {len(df_melhores)}")
+
     # Limpando os indices, e adicionando tais colunas
     df_melhores.insert(3, "id_limpo_hit", df_melhores["sseqid"].apply(lambda x: limpar_id(x)[0]))
     df_melhores.insert(4, "id_uniprot_hit", df_melhores["sseqid"].apply(lambda x: limpar_id(x)[1]))

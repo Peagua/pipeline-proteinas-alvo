@@ -13,6 +13,14 @@ relatorios_busca/DDS*
 relatorios_busca/TJL*
 relatorios_busca/RMS*
 
-blast_results/
+blast_results/DDS*
+blast_results/TJL*
+blast_results/RMS*
 
-blast_filtrado/
+blast_filtrado/DDS*
+blast_filtrado/TJL*
+blast_filtrado/RMS*
+
+fastas_hits/DDS*
+fastas_hits/TJL*
+fastas_hits/RMS*
