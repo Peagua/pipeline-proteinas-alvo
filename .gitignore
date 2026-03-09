@@ -24,3 +24,7 @@ blast_filtrado/RMS*
 fastas_hits/DDS*
 fastas_hits/TJL*
 fastas_hits/RMS*
+
+fastas_melhores_hits/DDS*
+fastas_melhores_hits/TJL*
+fastas_melhores_hits/RMS*
