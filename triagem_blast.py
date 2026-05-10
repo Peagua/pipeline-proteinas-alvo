@@ -97,7 +97,7 @@ for arquivo in arquivos:
         
         # Agora, se for encontrado, realiza busca de metadados (para extrair o nome da proteína)
         if len(results)>0:
-            entrada = results[0].replace("_1", "") # Limpao ID
+            entrada = results[0][:4] # Limpao ID
 
             # Outro API de busca do PDB, agora para extrair metadados
             data_query = DataQuery(
